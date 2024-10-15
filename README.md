@@ -26,6 +26,17 @@ Olá, me chamo Letícia, designer formada pela UFRJ, com foco em impressos e red
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=selenyh&layout=compact&bg_color=0d1117&hide_border=true&title_color=fff100&text_color=FFFFFF)
 
 
+| 🟦 Soft Skills  |  🟨 Hard Skills  |             
+|---------------|-------------|
+| Criatividade | ![Static Badge](https://img.shields.io/badge/Git-me?style=for-the-badge&logo=git&logoColor=fff100&color=0d1117) |
+| Curiosidade  | ![Static Badge](https://img.shields.io/badge/GitHub-me?style=for-the-badge&logo=github&logoColor=fff100&color=151b23) |
+| Persistência | ![Static Badge](https://img.shields.io/badge/Photoshop-me?style=for-the-badge&logo=adobephotoshop&logoColor=fff100&color=0d1117) |
+| Paciência  | ![Static Badge](https://img.shields.io/badge/Illustrator-me?style=for-the-badge&logo=adobeillustrator&logoColor=fff100&color=151b23) |
+| Persistência | ![Static Badge](https://img.shields.io/badge/Premiere-me?style=for-the-badge&logo=adobepremierepro&logoColor=fff100&color=0d1117) |
+| Interdisciplinar | ![Static Badge](https://img.shields.io/badge/Trello-me?style=for-the-badge&logo=trello&logoColor=fff100&color=151b23) |
+
+
+
 
 
 
